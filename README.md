@@ -2,7 +2,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nitinkushwaha19&label=Profile%20views&color=0e75b6&style=flat" alt="Nitinkushwaha19" /> </p>
-<p align="left"> <a href="https://github.com/Nitinkushwaha19/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitinkushwaha19" alt="Nitinkushwaha19" /></a> </p>
+<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=Nitinkushwaha19" alt="Nitinkushwaha19" /></a> </p>
 
 ## 🌟 About Me 
 I'm a 1st-year Master of Computer Application student at Shri Ramdeobaba College of Engineering and Management. I'm passionate about web development and have honed my skills as a MERN stack developer.
