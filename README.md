@@ -42,7 +42,15 @@ Feel free to reach out to me for collaborations or just to connect!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_kushwaha19/)
 
 ## 📊 GitHub Stats
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitinkushwaha19&show_icons=true&theme=radical)
+<div align="center">
+  
+  ![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkushwaha&show_icons=true&theme=radical)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitinkushwaha&layout=compact&theme=radical)
+  
+</div>
+
+
 
 ---
 
