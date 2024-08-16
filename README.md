@@ -25,18 +25,11 @@ I'm a 1st-year Master of Computer Application student at Shri Ramdeobaba College
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Other Skills
-![Touch Typing](https://img.shields.io/badge/Touch%20Typing-0A0A0A?style=for-the-badge&logo=typing&logoColor=white)
 
 ## 🌐 Portfolio
 Check out my portfolio to see my projects and more about what I do:
-[My Portfolio](https://yourportfolio.com)
+[My Portfolio](https://my-portfolio-git-main-nitin-kushwahas-projects.vercel.app/)
 
-### Featured Projects
-- **[Project Name](https://github.com/nitinkushwaha/project-repo)**: A brief description of the project, what technologies were used, and the problem it solves.
-- **[Another Project](https://github.com/nitinkushwaha/another-project-repo)**: A brief description of this project.
-
-For more details, visit [My Portfolio](https://yourportfolio.com).
 
 ## 🎯 Career Goals
 I'm aspiring for a challenging career in Software Development to use my skills and experience for the best. I'm always eager to learn and grow, seeking opportunities that will allow me to apply and expand my skill set.
@@ -44,12 +37,12 @@ I'm aspiring for a challenging career in Software Development to use my skills a
 ## 📫 Connect with Me
 Feel free to reach out to me for collaborations or just to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kushwaha/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nitinkushwaha)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nitinkushwaha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitinkushwaha19/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nitinkushwaha19)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_kushwaha19/)
 
 ## 📊 GitHub Stats
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=nitinkushwaha&show_icons=true&theme=radical)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nitinkushwaha19&show_icons=true&theme=radical)
 
 ---
 
