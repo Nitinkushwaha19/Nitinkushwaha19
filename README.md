@@ -54,8 +54,8 @@ Feel free to reach out to me for collaborations or just to connect!
 ## 🧠 Problem-Solving Stats
 
 <div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-100%20problems%20solved-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Problems Solved" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-150%20problems%20solved-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Problems Solved" />
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/nitinkushwaha706?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" />
 </div>
 
 
