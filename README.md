@@ -55,7 +55,7 @@ Feel free to reach out to me for collaborations or just to connect!
 
 <div align="center">
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/nitinkushwaha706?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" height="300px" width="60%" />
+  <img src="https://leetcard.jacoblin.cool/nitinkushwaha706?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" height="250px" width="70%" />
 </div>
 
 
