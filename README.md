@@ -46,14 +46,14 @@ Feel free to reach out to me for collaborations or just to connect!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nitin_kushwaha19/)
 
 ## 📊 GitHub Stats
-<div align="center">
+<div >
   <img src="https://github-readme-stats.vercel.app/api?username=Nitinkushwaha19&show_icons=true&theme=radical" alt="Nitin's GitHub stats" height="200px" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkushwaha19&layout=compact&theme=radical" alt="Top Langs" height="200px" width="48%"/>
 </div>
 
 ## 🧠 Problem-Solving Stats
 
-<div align="center">
+<div>
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/nitinkushwaha706?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" height="250px" width="70%" />
 </div>
