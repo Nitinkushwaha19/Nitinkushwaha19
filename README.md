@@ -51,6 +51,13 @@ Feel free to reach out to me for collaborations or just to connect!
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkushwaha19&layout=compact&theme=radical" alt="Top Langs" height="200px" width="48%"/>
 </div>
 
+## 🧠 Problem-Solving Stats
+
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode-100%20problems%20solved-orange?style=for-the-badge&logo=leetcode" alt="LeetCode Problems Solved" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-150%20problems%20solved-green?style=for-the-badge&logo=geeksforgeeks" alt="GeeksforGeeks Problems Solved" />
+</div>
+
 
 
 ---
