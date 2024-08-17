@@ -47,8 +47,8 @@ Feel free to reach out to me for collaborations or just to connect!
 
 ## 📊 GitHub Stats
 <div >
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitinkushwaha19&show_icons=true&theme=radical" alt="Nitin's GitHub stats" height="200px" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkushwaha19&layout=compact&theme=radical" alt="Top Langs" height="160px" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nitinkushwaha19&show_icons=true&theme=radical" alt="Nitin's GitHub stats" height="180px" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitinkushwaha19&layout=compact&theme=radical" alt="Top Langs" height="180px" width="48%"/>
 </div>
 
 ## 🧠 Problem-Solving Stats
