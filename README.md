@@ -56,6 +56,7 @@ Feel free to reach out to me for collaborations or just to connect!
 <div>
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/nitinkushwaha706?theme=dark&font=Raleway&ext=heatmap" alt="LeetCode Stats" height="250px" width="70%" />
+  ![50 Days of LeetCode](https://img.shields.io/badge/50_Days_of_LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)
 </div>
 
 
